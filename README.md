@@ -20,4 +20,4 @@ Unit Test Plan: Documents the test cases used to verify the functionality of the
 GitHub Repository
 The project is hosted on GitHub, where you can find the source code, test cases, and other related files. You can clone the repository and run the project locally.
 
-GitHub Repository Link: https://github.com/ryan475/CS341-Assignment1.git
+GitHub Repository Link: https://github.com/dikshasharma2141/CS341_A1
